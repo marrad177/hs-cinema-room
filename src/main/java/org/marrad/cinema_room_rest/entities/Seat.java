@@ -1,7 +1,6 @@
 package org.marrad.cinema_room_rest.entities;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
-import jakarta.annotation.Nullable;
 
 public class Seat {
     private int row;

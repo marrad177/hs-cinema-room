@@ -1,9 +1,5 @@
 package org.marrad.cinema_room_rest.payload;
 
-import org.marrad.cinema_room_rest.entities.Seat;
-
-import java.util.UUID;
-
 public class TicketDTO {
     SeatDTO ticket;
 
